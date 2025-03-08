@@ -2,28 +2,24 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+# Ignore build directories
+/target/
+/out/
+/bin/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# Ignore dependencies
+/.mvn/
+/.gradle/
+/node_modules/
 
-### VS Code ###
-.vscode/
+# Ignore logs and temp files
+*.log
+*.class
 
-### Mac OS ###
-.DS_Store
+
