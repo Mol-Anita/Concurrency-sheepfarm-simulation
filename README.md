@@ -21,13 +21,13 @@ This project simulates a farm environment where sheep attempt to escape through 
 ✅ Real-Time Console Updates: Displays farm layout with moving sheep (letters) and dogs (numbers).
 📸 Example Console Output
 
-################
-#   D    S    
-# S     D     #
-#      S      #
-#  D    S     #
- S         D #
-################
+    ################
+    #   D    S    
+    # S     D     #
+    #      S      #
+    #  D    S     #
+     S         D  #
+    ################
 
 (S = Sheep, D = Dog, # = Wall, Spaces = Empty Fields)
 📌 How It Works
