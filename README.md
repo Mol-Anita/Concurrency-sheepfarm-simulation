@@ -38,10 +38,10 @@ This project simulates a farm environment where sheep attempt to escape through 
 4️⃣ The simulation ends when a sheep escapes through a gate.
 🚀 How to Run
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/yourusername/multithreaded-farm.git
-cd multithreaded-farm
+    git clone https://github.com/yourusername/multithreaded-farm.git
+    cd multithreaded-farm
 
 Compile and run the program:
 
